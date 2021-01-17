@@ -1,1 +1,1 @@
-A simple React app to take quizzes and to create your own quiz.
+A simple React app to take quizzes and to create your own quizzes.
